@@ -25,9 +25,9 @@ The quiz questions cover various topics related to computer terminology and acro
 
 To play the quiz:
 1. Ensure you have Python installed on your computer.
-2. Download the Python script (`computer_quiz.py`) from this repository.
+2. Download the Python script (`quiz_game.py`) from this repository.
 3. Open a terminal or command prompt and navigate to the directory containing the script.
-4. Run the script by executing the command `python computer_quiz.py`.
+4. Run the script by executing the command `python quiz_game.py`.
 5. Follow the on-screen instructions to play the quiz.
 
 ## Contributing
@@ -55,9 +55,9 @@ This Python script is a simple number guessing game where the player tries to gu
 
 To play the game:
 1. Ensure you have Python installed on your computer.
-2. Download the Python script (`number_guessing_game.py`) from this repository.
+2. Download the Python script (`Number_Guessing_Game.py`) from this repository.
 3. Open a terminal or command prompt and navigate to the directory containing the script.
-4. Run the script by executing the command `python number_guessing_game.py`.
+4. Run the script by executing the command `python Number_Guessing_Game.py`.
 5. Follow the on-screen instructions to play the game.
 
 ## Features
@@ -90,9 +90,9 @@ This Python script is a simple rock-paper-scissors game where the player compete
 
 To play the game:
 1. Ensure you have Python installed on your computer.
-2. Download the Python script (`rock_paper_scissors.py`) from this repository.
+2. Download the Python script (`Rock_Paper_Scissors.py`) from this repository.
 3. Open a terminal or command prompt and navigate to the directory containing the script.
-4. Run the script by executing the command `python rock_paper_scissors.py`.
+4. Run the script by executing the command `Rock_Paper_Scissors.py`.
 5. Follow the on-screen instructions to play the game.
 
 ## Features
@@ -133,9 +133,9 @@ This Python script is an adventure game where the player embarks on a journey th
 
 To play the game:
 1. Ensure you have Python installed on your computer.
-2. Download the Python script (`adventure_game.py`) from this repository.
+2. Download the Python script (`Choose_your_own_adventure book.py`) from this repository.
 3. Open a terminal or command prompt and navigate to the directory containing the script.
-4. Run the script by executing the command `python adventure_game.py`.
+4. Run the script by executing the command `python Choose_your_own_adventure book.py`.
 5. Follow the on-screen instructions to play the game.
 
 ## Contributing
