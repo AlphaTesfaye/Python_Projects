@@ -36,4 +36,41 @@ Contributions to this project are welcome! If you have ideas for improving the q
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+
+
+# Number Guessing Game
+
+This Python script is a simple number guessing game where the player tries to guess a randomly generated number within a specified range.
+
+## How the Game Works
+
+1. **User Input:** The game prompts the user to input the upper limit of the range for the random number.
+2. **Input Validation:** The script validates the user's input to ensure it is a positive integer.
+3. **Random Number Generation:** Using the `random.randint()` function, a random number within the specified range is generated.
+4. **Guessing Loop:** The game enters a loop where the player makes guesses.
+5. **Guess Evaluation:** After each guess, the script compares the player's guess to the randomly generated number and provides feedback (higher, lower, or correct).
+6. **Game Termination:** The loop continues until the player correctly guesses the number. The game then terminates, displaying the number of guesses made.
+
+## How to Run
+
+To play the game:
+1. Ensure you have Python installed on your computer.
+2. Download the Python script (`number_guessing_game.py`) from this repository.
+3. Open a terminal or command prompt and navigate to the directory containing the script.
+4. Run the script by executing the command `python number_guessing_game.py`.
+5. Follow the on-screen instructions to play the game.
+
+## Features
+- **Input Validation:** The script validates user input to ensure it is a positive integer.
+- **Random Number Generation:** The game generates a random number within the specified range using the `random.randint()` function.
+- **Feedback Mechanism:** After each guess, the player receives feedback on whether their guess was higher, lower, or correct.
+- **Guess Counter:** The script keeps track of the number of guesses made by the player and displays it at the end of the game.
+
+## Contributing
+
+Contributions to this project are welcome! If you have ideas for improving the game or adding new features, feel free to fork the repository and submit a pull request.
+
+## License
+
+
+
