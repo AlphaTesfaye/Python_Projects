@@ -175,3 +175,34 @@ This Python script is a simple password manager that allows users to store and r
 Contributions to this project are welcome! If you have ideas for improving the password manager or adding new features, feel free to fork the repository and submit a pull request.
 
 
+
+
+# Dice Game
+
+This Python script is a simple dice game where players take turns rolling a six-sided dice to accumulate points. The first player to reach or exceed a maximum score wins the game.
+
+## Features
+
+- **Dice Rolling:** Players roll a six-sided dice to earn points. Rolling a 1 ends the player's turn and resets their score to zero.
+- **Multiple Players:** The game supports between 1 and 4 players.
+- **Winner Announcement:** The game checks for a winner after each turn and announces the winner if any player reaches or exceeds the maximum score.
+- **Rematch Prompt:** After each player's turn, the game prompts if players want to continue to the next player's turn or end the game.
+
+## How to Use
+
+1. **Clone the Repository:** Clone this repository to your local machine.
+2. **Install Dependencies:** Make sure you have Python installed on your computer.
+3. **Run the Script:** Execute the script by running `python dice_game.py` in your terminal or command prompt.
+4. **Follow the Instructions:** Enter the number of players and take turns rolling the dice to accumulate points.
+5. **Game End:** The game ends when a player reaches or exceeds the maximum score. The winner is announced, and players have the option to rematch.
+
+## File Structure
+
+- `dice_game.py`: The main Python script containing the dice game functionality.
+- `LICENSE`: The license file for the project.
+- `README.md`: The readme file containing information about the project.
+
+## Contributing
+
+Contributions to this project are welcome! If you have ideas for improving the dice game or adding new features, feel free to fork the repository and submit a pull request.
+
